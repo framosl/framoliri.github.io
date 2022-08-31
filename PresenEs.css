@@ -1,0 +1,38 @@
+body {font-family: Arial, Helvetica, sans-serif; background-color: #b9c9fe;}
+
+ 
+
+table { font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif; font-size: 12px; margin: 45px; width: 550px;
+
+    text-align: center; border-collapse: collapse; }
+    
+ 
+
+th { font-size: 13px; font-weight: normal; padding: 8px; background: teal; border-top: 10px solid yellow;
+
+    border-bottom: 1px solid white; color: #039; }
+
+ 
+
+td { padding: 8px; background: lime; border-bottom: 1px solid #fff; color: #669; border-top: 2px solid red; }
+
+ 
+
+tr:hover td { background: orange; color: navy; }
+
+ 
+
+.editar {color: blue; cursor:pointer;}
+
+ 
+
+#contenedorArch {margin-left: 45px; font-size:12px;}
+
+
+ 
+
+.boton {   color: black; padding: 5px; margin: 2px;
+
+  background-color: yellow;
+
+  font-weight: bold; }
